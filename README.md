@@ -1,8 +1,11 @@
-## Hi there, This is me 💫 👋
+## Hi there, This is Ajith 💫 👋
 - 🚀 Ajith at a private company.
 - 👨‍💻 Native Android Developer transitioning to Flutter, with a strong focus on mobile development
 - UI/UX design using Adobe XD & Figma.
--🏏 Cricket & 🏐 Volleyball enthusiast, and a fan of watching 🎥movies and listening to 🎵 music.
+-🏏 Cricket & 🏐 Volleyball enthusiast, and a fan of watching 🎥 movies and listening to 🎵 music.
+
+[![Github](https://img.shields.io/github/followers/InfantAjith96?label=Follow&style=social)](https://github.com/InfantAjith96)
+![](https://komarev.com/ghpvc/?username=InfantAjith96&color=green)
 <!--
 **InfantAjith96/InfantAjith96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
